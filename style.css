@@ -28,8 +28,6 @@ img{
     border-radius: 10px;
     margin-top: 20px;
     margin-left: 25px;
-    
-
 }
 
 .figure{
@@ -42,7 +40,6 @@ img{
     background-size: 200px;
     background-color: white;
     padding: auto;
-
 }
 
 .figure:hover{
